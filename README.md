@@ -34,6 +34,6 @@ It is worthy noting that Pandas has vast capabilities in manipulating and wrangl
 12. Pivoting Data: Use the pivot() function to reshape data based on column values.
 13. Working with Time Series Data: Pandas provides functions for resampling, shifting, rolling, and computing various statistics on time series data.
 
-# Disclaimer
+## Disclaimer
 
 This project is inspired by Corey Schafer's Tutorials on Pandas https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS.
