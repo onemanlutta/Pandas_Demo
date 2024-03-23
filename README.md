@@ -4,17 +4,17 @@ In this project, I demonstrate how to use Python programming language to analyse
 
 The scope is to demonstrate how to use common operations involved in manipulating and wrangling datasets in Pandas:
 
-1. Load Data - in csv format.
-2. Basics of a DataFrame & Series - Selecting Rows and Columns.
-3. Indexes - Set, Reset, and using Indexes.
-4. Filtering - using conditionals to Filter Rows and Columns.
-5. Updating Rows & Columns - how to modify data within DataFrames.
-6. Add/Remove Rows & Columns from DataFrames.
-7. Sorting Data.
-8. Grouping and Aggregating - analysing and exploring data.
-9. Cleaning Data - casting Datatypes and Handling Missing values.
-10. Working with Dates and Time Series Data
-11. Reading/Writing Data to different sources - Excel, JSON, SQL, etc
+1. *Load Data* - in csv format.
+2. *Basics of a DataFrame & Series* - Selecting Rows and Columns.
+3. *Indexes* - Set, Reset, and using Indexes.
+4. *Filtering* - using conditionals to Filter Rows and Columns.
+5. *Updating Rows & Columns* - how to modify data within DataFrames.
+6. *Add/Remove Rows & Columns* from DataFrames.
+7. *Sorting* Data.
+8. *Grouping and Aggregating* - analysing and exploring data.
+9. *Cleaning Data* - casting Datatypes and Handling Missing values.
+10. Working with *Dates and Time Series Data*
+11. *Reading/Writing Data* to different sources - Excel, JSON, SQL, etc
 
 # Common Pandas Operations
 
